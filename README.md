@@ -141,7 +141,7 @@ SQL
 
 **Akampit Deo Tiwari**
 
-B.Tech CSE Student
+B.Tech AIML Student
 
 ---
 
