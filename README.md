@@ -95,7 +95,7 @@ python skillgap_ai.py
 
 The user enters the target job role and current skills.
 
-![Home Screen](screenshots/home.png)
+![Home Screen](screenshots.png)
 
 ---
 
@@ -103,7 +103,7 @@ The user enters the target job role and current skills.
 
 The application compares the entered skills with the required skills and displays the missing skills.
 
-![Analysis Result](screenshots/result.png)
+![Analysis Result](screenshots.png)
 
 ---
 
